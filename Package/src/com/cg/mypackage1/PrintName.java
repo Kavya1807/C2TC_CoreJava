@@ -1,6 +1,6 @@
 package com.cg.mypackage1;
 
-import com.cg.mypackage.*;
+import com.cg.mypackage.MyClass;
 
 public class PrintName {
 
